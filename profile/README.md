@@ -55,7 +55,28 @@ If you are curious you can see for yourself at [Bolsas e Emprego](https://www.ua
 ### Apply for a Scholarship
 - Students will experience a straightforward process to find the best-suited scholarship and submit their application, reducing the complexity and barriers to applying.
 
+## User Stories
+1. Post Scholarships  
+   - As an academic services administrator, I want to create and post new scholarships so that students from various scientific areas can easily find opportunities.  
+   - As an academic services administrator, I want to categorize scholarships by scientific area, level of study, and eligibility criteria so that students can quickly filter relevant scholarships.  
+   - As an academic services administrator, I want to set deadlines for scholarship applications so that students are aware of submission dates.  
+   - As an academic services administrator, I want to upload detailed scholarship descriptions, including required documents and application steps, so that students have all the information they need.  
+   - As an academic services administrator, I want to update or remove scholarships from the system so that the information remains current and accurate.  
 
+2. Submit Application Results  
+   - As a jury member, I want to view all applications for a specific scholarship in one place so that I can efficiently evaluate each candidate.  
+   - As a jury member, I want to filter applications by various criteria (e.g., academic performance, course, scientifc area) so that I can shortlist candidates.  
+   - As a jury member, I want to leave comments and ratings on applications so that I can provide feedback during the selection process.  
+   - As a jury member, I want to notify students of the outcome of their applications (accepted or rejected) so that they are aware of their status.  
+   - As a jury member, I want to mark applications as reviewed or pending so that I can track the evaluation progress.  
+
+3. Apply for a Scholarship  
+   - As a student, I want to search for scholarships based on my scientific area, level of study, and eligibility criteria so that I can find the most relevant opportunities.  
+   - As a student, I want to view detailed information about each scholarship, including requirements and deadlines, so that I can prepare my application accordingly.  
+   - As a student, I want to upload documents (e.g., transcripts, recommendation letters) directly to my scholarship application so that I can complete the process online.  
+   - As a student, I want to track the status of my submitted application so that I know whether it is under review, accepted, or rejected.  
+   - As a student, I want to receive notifications and updates about my application status so that I stay informed throughout the process.  
+   - As a student, I want all the necessary submission files to be given during the aplication process so that I can easealy find them and speed up the whole procedure.  
 <!--
 
 **Here are some ideas to get you started:**
