@@ -76,7 +76,7 @@ If you are curious you can see for yourself at [Bolsas e Emprego](https://www.ua
    - As a student, I want to upload documents (e.g., transcripts, recommendation letters) directly to my scholarship application so that I can complete the process online.  
    - As a student, I want to track the status of my submitted application so that I know whether it is under review, accepted, or rejected.  
    - As a student, I want to receive notifications and updates about my application status so that I stay informed throughout the process.  
-   - As a student, I want all the necessary submission files to be given during the aplication process so that I can easealy find them and speed up the whole procedure.  
+   - As a student, I want all the necessary submission files to be given during the application process so that I can easily find them and speed up the whole procedure.  
 <!--
 
 **Here are some ideas to get you started:**
